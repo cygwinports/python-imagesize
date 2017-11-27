@@ -1,0 +1,9 @@
+inherit python-wheel
+
+NAME="python-imagesize"
+VERSION=0.7.1
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="Returns image size of PNG/JPEG/GIF images"
+
+ARCH=noarch
